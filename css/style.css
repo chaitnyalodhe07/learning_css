@@ -1,10 +1,10 @@
-/*h4 {
+h4{
     color: coral;
     background-color: aquamarine;
     font-size: 80px;
 }
 
-/*h5 {
+h5 {
     color: chocolate;
     font-size: 60px;
 }
@@ -17,4 +17,10 @@
 
 .para1 {
     color: red;
+}
+.bg_image_example{
+            background-color: black;
+            background-image: url(images/house.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
 }
